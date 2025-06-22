@@ -18,3 +18,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+const styles = StyleSheet.create({
+  container: {
+    ...
+    backgroundColor: 'blue',
+    ...
+  }
+});
+
